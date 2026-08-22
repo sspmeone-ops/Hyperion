@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Hyperion-Workspace/Hyperion/main/.github/assets/logo-video.gif" alt="Hyperion Logo" width="160" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);" />
+<img src="https://raw.githubusercontent.com/Hyperion-Workspace/Hyperion/main/.github/assets/logo-video.gif" alt="Hyperion Logo" width="320" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);" />
 
 # HYPERION
 
