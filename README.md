@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src=".github/assets/logo-video.gif" alt="Hyperion Logo" width="160" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);" />
+<video src="https://raw.githubusercontent.com/Hyperion-Workspace/Hyperion/main/.github/assets/logo-remover.mp4" width="160" autoplay muted loop playsinline style="border-radius: 20px; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);"></video>
 
 # HYPERION
 
