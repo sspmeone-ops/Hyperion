@@ -84,6 +84,19 @@ We’ve all been there:
 
 <br/>
 
+---
+
+## ⚡ What Makes Hyperion Special? (In Simple Words)
+
+Think of **Hyperion** as your mission control center for AI coding:
+
+- 💻 **Up to 8 AI Terminals at Once:** Run up to **8 live terminal panes simultaneously**—each powered by your choice of AI coding agent (Claude Code, Gemini CLI, Aider, Codex, etc.). Watch them build, test, and refactor in parallel side-by-side!
+- 🗂️ **Zero-Bleed Workspaces:** Keep your projects completely separated. Switching from `Project A` to `Project B` instantly switches all 8 terminals, Kanban tasks, and prompts with zero context leakage.
+- 📋 **Drag & Drop Agent Kanban:** Write a task on the board, drag it onto any of your 8 AI agents, and sit back while the agent updates its progress live on your board!
+- ⚡ **Prompt Forge:** Save, version, and reuse your best AI prompts like source code. Never lose a high-performing prompt again!
+
+<br/>
+
 ## ⚡ Quick Start (Under 60s)
 
 Get up and running natively in seconds! 🏃‍♂️💨
